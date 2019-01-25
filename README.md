@@ -46,3 +46,7 @@ Finished? Send your work to the coachs using this form .
 - Get used to the notion of satisficing as an alternative to perfectionism.
 
 Good luck, soldier.
+
+## original site: https://www.lecavzw.be/
+
+## reworked site: https://willemvangenechten.github.io/filrouge-0-guerrilla/
